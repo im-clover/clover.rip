@@ -1,5 +1,7 @@
 # [clover.rip](https://clover.rip)
 
+Free filehost with public / private posts
+
 🍀 Tech Stack:
   - Frontend
     - [Sveltekit](https://kit.svelte.dev) with Typescript Syntax for the Framework
